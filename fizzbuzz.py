@@ -4,6 +4,6 @@ for fizz in range(0, 100):
     elif fizz% 5 == 0:
         print ("buzz")
     elif fizz% 15 == 0:
-        print ("tato")
+        print ("fizzbuzz")
     else:
         print (fizz, end=" ")
